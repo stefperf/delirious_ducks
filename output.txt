@@ -1,0 +1,2 @@
+Expected number of moves with 2 ducks = 4.901
+Expected number of moves with 3 ducks = 18.407
